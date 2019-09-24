@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/ericvaladas
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://www.ericvaladas.com
+  * I am ericvaladas (https://keybase.io/ericvaladas) on keybase.
+  * I have a public key ASAJUsFhkmQZ33K_iVZ97BEn2g8EAN892j5n5ZMnAbf37Ao
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120d45894804c2870f7cac5d71be9132544e3f4db59bdd01cb3b9feca87fafa3dd70a",
+      "host": "keybase.io",
+      "kid": "01200952c161926419df72bf89567dec1127da0f0400df3dda3e67e5932701b7f7ec0a",
+      "uid": "72f9ee588c51cd40869754cb2c3d5619",
+      "username": "ericvaladas"
+    },
+    "merkle_root": {
+      "ctime": 1569352745,
+      "hash": "cccb99b37ffa67e18cfe68f82eeea8f55b4b8ff11f76f4b61a5f3ddc28ac4b5d0e790b3c3e723525131d1adf9f98d46e660f5acea680a6fd3c06b161803ecf04",
+      "hash_meta": "33a21dd2abf56e95441fc3b58324e37054d92cbd08f102caab15be1f83a1f000",
+      "seqno": 7727227
+    },
+    "service": {
+      "entropy": "ZX81GqqJdKYnddazYsIpBpNs",
+      "hostname": "www.ericvaladas.com",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.5.0"
+  },
+  "ctime": 1569352775,
+  "expire_in": 504576000,
+  "prev": "44c22095550f4901a80480ad4c70c652fc163dd17dc48e84cca3ce5e241388ef",
+  "seqno": 18,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgCVLBYZJkGd9yv4lWfewRJ9oPBADfPdo+Z+WTJwG39+wKp3BheWxvYWTESpcCEsQgRMIglVUPSQGoBICtTHDGUvwWPdF9xI6EzKPOXiQTiO/EIFC5o3BhYWKJBEa31MhJykrGFYlIJuVOiMquMKgdNoa6AgHCo3NpZ8RAeLt8Mp7kCAZnUr+y+tRTd0GR2kfT0U+nweDfOcLYUns1LLogysGWSSu4VQM7K0Fwbod40lHcT2StyVT38M6mD6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIFol81ikfNlRlitzw08tANM5tCVZ9s8iYYLfhup3UnaAo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/ericvaladas
+
+==================================================================
